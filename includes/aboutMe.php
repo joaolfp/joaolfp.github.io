@@ -8,10 +8,8 @@
         <div class="section-heading">
           <h2>Sobre <strong>Mim</strong></h2>
         </div>
-        <p class="lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language
-          ocean.</p>
-        <p class="mb-5  ">A small river named Duden flows by their place and supplies it with the necessary
-          regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+        <p class="lead" style="text-align: justify">Eu sou um desenvolvedor de dispositivos móveis e web, apaixonado por fornecer a melhor experiência do usuário usando as práticas recomendadas, como design de materiais. Atualmente sou Desenvolvedor C# e ASP na Multicontas, uma empresa de sistemas para a gestão do seu negócio.</p>
+        
       </div>
     </div>
 
@@ -23,7 +21,7 @@
       </div>
       <div class="col-md-9">
         <div class="skill">
-          <h3>Design</h3>
+          <h3>Desenvolvedor Android</h3>
           <div class="progress">
             <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0"
               aria-valuemax="100">
@@ -33,7 +31,28 @@
         </div>
 
         <div class="skill">
-          <h3>HTML5</h3>
+          <h3>Java</h3>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0"
+              aria-valuemax="100">
+              <span>95%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="skill">
+          <h3>XML</h3>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0"
+              aria-valuemax="100">
+              <span>95%</span>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="skill">
+          <h3>HTML</h3>
           <div class="progress">
             <div class="progress-bar" role="progressbar" style="width: 98%" aria-valuenow="98" aria-valuemin="0"
               aria-valuemax="100">
@@ -43,7 +62,7 @@
         </div>
 
         <div class="skill">
-          <h3>CSS3</h3>
+          <h3>CSS</h3>
           <div class="progress">
             <div class="progress-bar" role="progressbar" style="width: 97%" aria-valuenow="97" aria-valuemin="0"
               aria-valuemax="100">
@@ -53,7 +72,7 @@
         </div>
 
         <div class="skill">
-          <h3>WordPress</h3>
+          <h3>JavaScript</h3>
           <div class="progress">
             <div class="progress-bar" role="progressbar" style="width: 88%" aria-valuenow="88" aria-valuemin="0"
               aria-valuemax="100">
@@ -63,11 +82,31 @@
         </div>
 
         <div class="skill">
+          <h3>PHP</h3>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+              aria-valuemax="100">
+              <span>90%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="skill">
+          <h3>MVC</h3>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+              aria-valuemax="100">
+              <span>90%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="skill">
           <h3>Bootstrap</h3>
           <div class="progress">
-            <div class="progress-bar" role="progressbar" style="width: 92%" aria-valuenow="92" aria-valuemin="0"
+            <div class="progress-bar" role="progressbar" style="width: 98%" aria-valuenow="98" aria-valuemin="0"
               aria-valuemax="100">
-              <span>92%</span>
+              <span>98%</span>
             </div>
           </div>
         </div>
