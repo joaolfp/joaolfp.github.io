@@ -3,75 +3,37 @@
      <div class="row">
        <div class="col-md-12 mb-5">
          <div class="section-heading text-center">
-           <h2>My <strong>Resume</strong></h2>
+           <h2>Meu <strong>Resumo</strong></h2>
          </div>
        </div>
        <div class="col-md-6">
-         <h2 class="mb-5">Education</h2>
+         <h2 class="mb-5">Educação</h2>
          <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Masteral in Information Technology</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">New York University</span>
+           <span class="date"><span class="icon-calendar"></span> Janeiro 2016 - Dezembro 2018</span>
+           <h3>Colégio Técnico Opção</h3>
+           <p>Ensino Médio concomitante com Curso de Técnico de Informática,</p>
+           <span class="school">São José dos Campos - SP - Brasil</span>
          </div>
 
          <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present Deacember.</span>
-           <h3>Masteral in Information Technology</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">New York University</span>
+           <span class="date"><span class="icon-calendar"></span> Dezembro 2017 - Dezembro 2018.</span>
+           <h3>Udemy</h3>
+           <p>Desenvolvimento Android - Aprenda a criar 15 apps.</p>
+           <span class="school">Curso Online</span>
          </div>
-
-         <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Masteral in Information Technology</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">New York University</span>
-         </div>
-
-         <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present Deacember.</span>
-           <h3>Masteral in Information Technology</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">New York University</span>
-         </div>
-
        </div>
        <div class="col-md-6">
 
-
-         <h2 class="mb-5">Experience</h2>
-
-         <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Lead Product Designer</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">Github</span>
-         </div>
+         <h2 class="mb-5">Experiencia</h2>
 
          <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Lead Product Designer</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">Facebook</span>
+           <span class="date"><span class="icon-calendar"></span> Fevereiro 2019 - Presente</span>
+           <h3>Multicontas</h3>
+           <p>Desenvolvedor C#, AngularJS, SQL SERVER. É uma empresa de Sistema para Gestão | Certificado Digital | Automação Comercial</p>
+           <span class="school">São José dos Campos - SP - Brasil</span>
          </div>
-
-         <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Lead Product Designer</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">Twitter</span>
-         </div>
-
-         <div class="resume-item mb-4">
-           <span class="date"><span class="icon-calendar"></span> March 2013 - Present</span>
-           <h3>Lead Product Designer</h3>
-           <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-           <span class="school">Shopify</span>
-         </div>
-
 
        </div>
      </div>
    </div>
- </section> <!-- .section -->
+ </section>
