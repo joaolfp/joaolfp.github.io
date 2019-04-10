@@ -7,21 +7,16 @@
         <ul class="site-contact-details">
           <li>
             <span class="text-uppercase">Email</span>
-            site@gmail.com
+            joaolucasfp2001@gmail.com
           </li>
           <li>
-            <span class="text-uppercase">Phone</span>
-            +30 976 1382 9921
+            <span class="text-uppercase">Telefone</span>
+            (12) 99739-8090
           </li>
           <li>
-            <span class="text-uppercase">Fax</span>
-            +30 976 1382 9922
-          </li>
-          <li>
-            <span class="text-uppercase">Address</span>
-            San Francisco, CA <br>
-            4th Floor8 Lower <br>
-            San Francisco street, M1 50F
+            <span class="text-uppercase">Endereço</span>
+            São José dos Campos, SP <br>
+            Bairro Jardim Itapuã <br>
           </li>
         </ul>
       </div>
