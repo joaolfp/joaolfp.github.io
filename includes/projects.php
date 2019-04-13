@@ -4,7 +4,7 @@
     <div class="row mb-4">
       <div class="col-md-12">
         <div class="section-heading text-center">
-          <h2>My <strong>Services</strong></h2>
+          <h2>Meus <strong>Projetos</strong></h2>
         </div>
       </div>
     </div>

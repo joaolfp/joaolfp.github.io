@@ -28,7 +28,7 @@
 
       include("includes/aboutMe.php");
 
-      include("includes/services.php");
+      include("includes/projects.php");
 
       include("includes/resume.php");
 
