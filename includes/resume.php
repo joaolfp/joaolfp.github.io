@@ -3,7 +3,7 @@
      <div class="row">
        <div class="col-md-12 mb-5">
          <div class="section-heading text-center">
-           <h2>Meu <strong>Resumo</strong></h2>
+           <h2>Meu <strong>Currículo</strong></h2>
          </div>
        </div>
        <div class="col-md-6">
