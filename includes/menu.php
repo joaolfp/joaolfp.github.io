@@ -5,6 +5,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
+    <a class="navbar-brand" href="index.html">João Lucas</a>
     <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample09">
       <ul class="navbar-nav">
         <li class="nav-item"><a class="nav-link" href="#section-home">Home</a></li>
