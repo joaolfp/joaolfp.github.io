@@ -30,7 +30,7 @@
       </div>
       <div class="col-md-6 col-lg-4 text-center mb-5">
         <div class="site-service-item site-animate" data-animate-effect="fadeIn">
-          <a href="images/projects/home.png" class="portfolio-item set-bg"
+          <a href="images/projects/portfolio/send_email.png" class="portfolio-item set-bg"
             data-setbg="images/projects/portfolio/send_email.png">
             <p><img src="images/projects/portfolio/send_email.png" alt="" class="img-fluid"></p>
           </a>
