@@ -14,7 +14,7 @@
         <div class="site-service-item site-animate" data-animate-effect="fadeIn">
           <a href="images/projects/portfolio/home.png" class="portfolio-item set-bg"
             data-setbg="images/projects/portfolio/home.png">
-            <p><img src="images/projects/home.png" alt="" class="img-fluid"></p>
+            <p><img src="images/projects/portfolio/home.png" alt="" class="img-fluid"></p>
           </a>
           <h3 class="mb-4">Home (Meu Portfolio)</h3>
         </div>
