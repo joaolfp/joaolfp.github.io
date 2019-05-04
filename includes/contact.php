@@ -1,4 +1,4 @@
-<section class="site-section bg-light" id="section-contact">
+<section class="site-section" id="section-contact">
   <div class="container">
     <div class="row">
 
@@ -15,8 +15,7 @@
           </li>
           <li>
             <span class="text-uppercase">Endereço</span>
-            São José dos Campos, SP <br>
-            Bairro Jardim Itapuã <br>
+            São José dos Campos, SP
           </li>
         </ul>
       </div>

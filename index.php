@@ -32,8 +32,6 @@
 
       include("includes/resume.php");
 
-      include("includes/blog.php");
-
       include("includes/contact.php");
       
       include("includes/footer.php");

@@ -12,7 +12,6 @@
         <li class="nav-item"><a class="nav-link" href="#section-about">Sobre</a></li>
         <li class="nav-item"><a class="nav-link" href="#section-services">Projetos</a></li>
         <li class="nav-item"><a class="nav-link" href="#section-resume">Currículo</a></li>
-        <li class="nav-item"><a class="nav-link" href="#section-blog">Blog</a></li>
         <li class="nav-item"><a class="nav-link" href="#section-contact">Contato</a></li>
       </ul>
     </div>
