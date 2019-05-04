@@ -1,3 +1,1 @@
-### Portfolio for personal website and blog. (It is under construction)
 
-Blog posts, about me, and my projects and other things ...
